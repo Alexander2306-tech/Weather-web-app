@@ -3,7 +3,7 @@
 Hey there! 👋  
 This is a simple and clean weather app built with **Python (Flask)**. It lets you search for any city and instantly shows you the current weather conditions — powered by a public weather API.
 
-Whether you're planning your day or just curious about the weather in Tokyo 🌏 or Lagos 🌞, this little app has you covered.
+Whether you're planning your day or just curious about the weather in Tokyo 🌏 or Lagos 🌞, this little app has you covered have a great day.
 
 ---
 
